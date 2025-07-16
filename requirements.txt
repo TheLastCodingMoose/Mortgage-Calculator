@@ -1,0 +1,9 @@
+streamlit
+streamlit.components.v1
+pandas
+numpy
+plotly
+openpyxl
+io
+time
+zipfile
